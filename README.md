@@ -14,7 +14,7 @@ Modéliser et prévoir la dynamique de l'or à partir de son historique de prix,
 Le prix de l'or étant proche d'une marche aléatoire, l'analyse porte sur les **log-rendements** et sur la **volatilité conditionnelle**. Chaque modèle est évalué face au benchmark naïf, pour juger si la complexité apporte un gain réel.
 
 ## Données
-
+caca
 | Élément | Choix |
 |---|---|
 | Actif | XAU/USD (or spot en dollars) ou GC=F (futures or COMEX) |
