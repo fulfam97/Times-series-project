@@ -30,6 +30,7 @@ SPOT_TICKER = "XAUUSD=X" # Spot Or / USD
 COVARIATE_TICKERS = {
     "DXY": "DX-Y.NYB",   # Indice Dollar US (corrélation inverse historique)
     "VIX": "^VIX",       # Indice de volatilité S&P 500 (mesure du stress/risk-off)
+    "GVZ": "^GVZ",       # CBOE Gold ETF Volatility Index (volatilité implicite des options sur l'or)
     "TNX_10Y": "^TNX",   # Taux 10 ans US (coût d'opportunité de détenir de l'or)
     "OIL": "CL=F",       # Pétrole WTI (proxy de pressions inflationnistes)
     "SP500": "^GSPC",    # Indice boursier large S&P 500
