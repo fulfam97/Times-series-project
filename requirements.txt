@@ -14,6 +14,9 @@ arch>=6.0.0
 # Machine Learning
 scikit-learn>=1.3.0
 
+# Modèles de fondation (Time Series Foundation Models)
+chronos-forecasting>=2.0
+
 # Visualisation
 matplotlib>=3.7.0
 seaborn>=0.12.0
